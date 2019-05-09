@@ -1,1 +1,2 @@
 this is my text file
+my name is nitesh
